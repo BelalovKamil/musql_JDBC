@@ -13,5 +13,6 @@ public class Main {
         System.out.println(userServiceImpl.getAllUsers());
         userServiceImpl.cleanUsersTable();
         userServiceImpl.dropUsersTable();
+
     }
 }
